@@ -6,6 +6,6 @@ public class Test {
 
     private void run() {
         Pipeline pipeline = new Pipeline();
-
+        pipeline.run();
     }
 }
